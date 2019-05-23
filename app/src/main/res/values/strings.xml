@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyBook</string>
+    <string name="image">IMAGE</string>
+    <string name="see_details">DETAILS</string>
+</resources>
